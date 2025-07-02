@@ -1,1 +1,1 @@
-# MTProto
+# MTProtoCollectorV2
